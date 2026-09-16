@@ -14,7 +14,7 @@ Whether you need a brand-new website, an automated tool, or a complete project l
 ---
 
 ## 👑 Owner & Lead Developer
-* **GitHub:** [@x410m1s0](https://github.com/Pythonxalo)
+* **GitHub:** [@x410m1s0](https://github.com/x410m1s0/)
 
 ---
 
